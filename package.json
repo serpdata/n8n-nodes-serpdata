@@ -1,6 +1,6 @@
 {
   "name": "@serpdata.dev/n8n-nodes-serpdata",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "n8n node for the SerpData API: Google search, images, news, shopping, patents, autocomplete, Trends and Google Maps places, reviews and photos.",
   "license": "MIT",
   "homepage": "https://github.com/serpdata/n8n-nodes-serpdata#readme",
