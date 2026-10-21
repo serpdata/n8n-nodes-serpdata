@@ -1,0 +1,10 @@
+{
+  "node": "@serpdata.dev/n8n-nodes-serpdata.serpData",
+  "nodeVersion": "1.0",
+  "codexVersion": "1.0",
+  "categories": ["Data & Storage", "Marketing & Content", "Utility"],
+  "resources": {
+    "credentialDocumentation": [{ "url": "https://serpdata.dev/docs" }],
+    "primaryDocumentation": [{ "url": "https://serpdata.dev/docs" }]
+  }
+}
